@@ -74,7 +74,7 @@ can use them from the very beginning to make better use of Aseprite:
 
 * Holding <kbd>Spacebar</kbd> as you <kbd>Left click+Drag</kbd> will
   pan your view of the sprite you are currently editing. This is useful when
-  you're working on large graphics or are zoomed-in.
+  you're working on large graphics or are zoomed-in. :)
 
 ## Alternative functions for right-click
 
